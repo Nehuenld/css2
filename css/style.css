@@ -10,3 +10,25 @@
 .BoxModel{
     margin: 40px;
 }
+.content li{
+	display: inline-block;
+	margin: 0px 10px;
+	max-width: 900px;
+	float: right;
+
+}
+.full{
+	color: green;
+}
+.half{
+	color: yellow;
+}
+.low{
+	color: orange;
+}
+.empty{
+	color: red;
+}
+.charging{
+	color: blue;
+}
